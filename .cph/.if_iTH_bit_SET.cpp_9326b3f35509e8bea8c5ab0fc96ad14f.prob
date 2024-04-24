@@ -1,0 +1,1 @@
+{"name":"Local: if_iTH_bit_SET","url":"p:\\Bit Manipulation\\if_iTH_bit_SET.cpp","tests":[{"id":1713967239336,"input":"10\n2","output":"NO"},{"id":1713967254589,"input":"10\n1","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\Bit Manipulation\\if_iTH_bit_SET.cpp","group":"local","local":true}
